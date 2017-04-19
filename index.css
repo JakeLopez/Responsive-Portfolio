@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 24px;
+	line-height: 32px;
+	color: #333;
+	background-image: url("concrete_seamless.png");
+
+}
+
+#Name { 
+	font-family: Georgia, Times, TimesNewRoman, Serif;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+	position: fixed;
+	background: #4aaaa5;
+	margin: 0;
+	top: 0;
+	left: 20px;
+
+
+	
+
+}
+
+
+
+#AboutMe {
+
+
+} 
+
+#ConnectWithMe {
+
+
+}
+
+#footer {
+	font-size: 8px;
+	color: #ffffff;
+	background: #666666;
+	text-align: center;
+	padding: 20px;
+	position:absolute;
+   	bottom:0;
+  	width:100%;
+
+
+}
